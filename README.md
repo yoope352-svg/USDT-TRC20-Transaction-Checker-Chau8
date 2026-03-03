@@ -10,3 +10,4 @@ TRC20 极速对账：专为高频 USDT 交易优化，响应速度提升 300%。
 纯净体验：无广告干扰，直击核心交易数据。
 
 🔗 立即体验：https://www.chau8.com
+想要省钱？查看实时能量比价：[点击进入能量雷达仓库] https://github.com/yoope352-svg/TRON-USDT-Transaction-Checker-Chau8
